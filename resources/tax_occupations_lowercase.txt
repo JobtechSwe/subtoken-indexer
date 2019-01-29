@@ -1,0 +1,3347 @@
+﻿advokat
+planeringsarkitekt/fysisk planerare
+inredningsdesigner
+projekteringsingenjör, elkraft
+utvecklingsingenjör, elkraft
+processingenjör, elkraft
+standardiseringsingenjör, elkraft
+beräkningsingenjör, el-tele
+mjukvaruutvecklare
+utvecklingsingenjör, el-tele
+applikationsingenjör
+experimentingenjör, el-tele
+planeringsingenjör, el-tele
+processingenjör, el-tele
+besiktningsingenjör, el-tele
+provningsingenjör, el-tele
+signalingenjör
+utvecklingsingenjör, maskin
+driftingenjör, maskin
+processingenjör, maskin
+provningsingenjör, maskin
+fartygskonstruktör
+flygingenjör
+svetsingenjör
+produktutvecklare
+standardiseringsingenjör
+textilingenjör
+besiktningsingenjör
+kontrollingenjör
+logistikingenjör
+materialplanerare
+materialstyrare
+exploateringsingenjör
+markförhandlare
+forskningsingenjör, metallurgi
+bergsingenjör
+processingenjör, gruv
+produktionsingenjör, gruv
+utvecklingsingenjör, gruv
+ingenjörsgeolog
+processingenjör, metallurgi
+valsverksingenjör
+fartygsintendent
+kostchef
+köksföreståndare
+storhushållsföreståndare
+husmor
+kursgårdsföreståndare
+hotellhusfru
+chefskock
+dietkock/dietkokerska
+kökschef
+köksmästare
+souschef
+grillkock, snabbmat
+kallskänka, fartyg
+servitör/servitris, fartyg
+sommelier
+ekonomibiträde, fartyg
+damfrisör
+herrfrisör
+solarievärd/solarievärdinna
+perukmakare
+färgkonsulent
+manikyrist/manikurist
+stylist
+fotterapeut/fotvårdsspecialist
+pedikyrist/pedikurist
+begravningsassistent
+begravningsbyråföreståndare
+kapellvaktmästare
+krematorievaktmästare
+klubbvärdinna
+kostymtekniker/påklädare
+köttmästare
+styckmästare
+tarmförädlingsarbetare
+tårtmakare
+installationstekniker
+kraftstationsmaskinist
+kraftverksoperatör
+maskinmästare
+stationsmontör
+driftmaskinist, reningsverk
+maskintekniker, vattenverk
+drifttekniker, förbränningsstation
+kylmaskinist, kyl- och frysanläggning
+flygplansmontör
+motorbyggare
+motormontör
+eldare
+Ångmaskinist
+Ångpanneeldare
+däckmontör/däck- och hjulmekaniker
+montör, metallprodukter
+persiennmontör
+plastmontör
+solskyddsmontör
+möbelmontör/inredningsmontör
+avsynare, el-tele
+avsynare, elkrafttekniska produkter
+avsynare, elteknik
+elektronikmontör
+kretskortsmontör
+batteriarbetare/ackumulatorarbetare
+kabelmaskinoperatör
+forskningslaborant, kemi
+laborant, kemi
+laboratorietekniker, kemi
+forskningslaborant, fysik
+instrumentingenjör, fysik
+laborant, fysik
+laboratorietekniker, fysik
+materialprovare, fysik
+mättekniker, fysik
+fysiologassistent, laborant
+geologassistent
+meteorologassistent/observatör, flygvapnet
+mikroskopist
+kartograf
+kartritare
+karttekniker
+lantmäteriingenjör
+forskningsingenjör, elkraft
+forskningsingenjör, el-tele
+forskningsingenjör, maskin
+skeppsmätare
+elektrotekniker
+borrledare, petroleumutvinning
+malmletare
+produktionstekniker, petroleumutvinning
+besiktningsassistent
+avsmakare
+mjölkbedömare
+vinprovare
+distributionschef, energi
+driftchef, va
+badföreståndare
+golfbaneföreståndare
+idrottsplatschef
+simhallsföreståndare
+travbaneföreståndare
+hotellchef
+källarmästare
+bilrekonditionerare
+bilvårdare/garagearbetare
+leveransman
+rostskyddsbehandlare
+personalansvarig
+marknadskommunikatör
+marknadskonsult
+marknadskoordinator
+mediakonsulent
+mediaplanerare
+pr-konsult
+pr-man
+produktchef, marknadsföring
+reklamkonsulent
+reklamman
+marknadsplanerare
+marknadsundersökare
+fastighetsekonom
+förvaltningsekonom
+hälsoekonom
+miljöekonom
+privatekonom
+instruktionsförare
+barnflicka/barnvakt
+hemstädare/hemhjälp
+arbetsledare, städ/städledare
+instruktionsstädare
+byggstädare
+fartygsstädare
+fastighetsstädare
+hotellstädare
+industristädare
+kontorsstädare
+sjukhusstädare
+cabin stewardess/hyttvärdinna
+städare/lokalvårdare
+trappstädare
+vagnsstädare
+måltidsbiträde
+ekonomibiträde, storhushåll
+frukostvärd/frukostvärdinna
+köksbiträde
+laboratoriediskare
+barkmaskinskötare, skogsbruk
+skotarförare, skogsbruk
+skördarförare, skogsbruk
+beläggningsmaskinförare
+grävmaskinförare
+lastmaskinförare
+pålmaskinförare
+väghyvelförare
+avisningsmaskinförare
+ismaskinförare
+mudderverkskötare
+pistmaskinförare
+renhållningsmaskinförare
+färdtjänstbussförare
+färdtjänstförare
+distributionsförare
+tank- och bulkbilsförare
+pilot/trafikflygare/flygkapten
+pilot/trafikflygare/flygstyrman
+helikopterförare/helikopterpilot
+flygledare
+brandinspektör
+brandtekniker
+skyddsingenjör
+säkerhetsingenjör
+försäkringsutredare, försäkringskassa
+personlig handläggare, försäkringskassa
+kassaföreståndare, arbetslöshetskassa
+omprövningshandläggare, arbetslöshetskassa
+servicechef, bilverkstad
+bussmekaniker
+fordonstekniker/bilmekaniker/personbilsmekaniker
+helikoptertekniker
+arbetsmiljöingenjör
+traktormekaniker
+truckreparatör
+fordonsingenjör, trafikverket
+besiktningstekniker, bilprovning
+besiktningsingenjör, bilprovning
+kemikalieinspektör
+helikoptermekaniker
+byggnadskontrollant
+tvättchef
+massablekare, processoperatör
+massakokare, processoperatör
+massamaskinförare
+torkmaskinförare, massaindustri
+kalandrerare
+pappersarbetare
+pappersmaskinförare
+rullare, papper
+torkare, papper
+affärsresesäljare
+charterresesäljare
+resebyråassistent
+resehandläggare
+säljledare, resebyrå
+färdledare/turledare
+platschef, reseföretag
+bussguide
+fiskeguide
+företagsguide
+lokalguide
+rundtursguide
+taxiguide
+vildmarksguide
+konferenschef
+hotellvärd/hotellvärdinna
+konferensvärd/konferensvärdinna
+nattreceptionist/nattportier
+vandrarhemsföreståndare
+kontorsreceptionist
+stugvärd
+turistassistent
+turistinformatör
+turistsekreterare
+turistvärd/turistvärdinna
+depåförare, spårburen trafik
+barkmaskinskötare, sågverk
+timmersorterare
+hyveloperatör, sågverk
+kantsågare
+sågare
+sågoperatör
+sågverksarbetare
+incheckare
+flygvärd/flygvärdinna/flygsteward
+kabinchef/purser
+båtvärdinna
+tågvärd/tågvärdinna
+driftelektriker
+driftmontör, elkraft
+elektromekaniker
+elreparatör
+fabrikselektriker
+maskinelektriker
+verkstadselektriker
+rulltrappmontör
+hushållsmaskinreparatör/vitvarureparatör
+instrumentelektriker/instrumenttekniker
+signaltekniker
+kommunikationselektriker
+ledningsmontör, tele
+teletekniker
+elektronikreparatör
+symaskinsreparatör
+tv-tekniker/hemelektroniktekniker
+kabelmontör, elkraft
+linjemontör, elkraft
+linjereparatör, elkraft
+elverksmontör
+stationsmontör, elkraft
+hydraulmontör
+hydraulreparatör
+maskinbyggare
+maskinmekaniker, industri/varvsindustri
+maskinmontör
+maskinreparatör, stationära
+pumpmontör
+pumpreparatör
+robotmontör
+turbinmontör
+turbinreparatör
+underhållsmekaniker
+vagnreparatör, järnväg
+juvelerare
+juvelfattare
+silversmed
+blanksticksgravör
+emaljör
+gravör, ädelmetall
+Ädelstensslipare
+taxitelefonist
+utlandstelefonist
+blandarskötare, sprängämnesindustri
+blandningsuppvägare, sprängämnen
+maskinoperatör, sprängämnen och pyroteknik
+sprängämnesarbetare
+fiolbyggare
+gitarrbyggare
+gitarrtekniker
+dragspelsreparatör
+pianobyggare
+pianostämmare
+intonatör
+orgelpipmakare
+orgelstämmare
+verkmakare
+trumtekniker
+avsynare, musikinstrument
+musikinstrumentmakare
+formmaskinskötare, plast
+härdare, plast
+kalanderskötare, plast
+laminatpressare
+laminerare, plast
+plastbåtbyggare
+plastgjutare
+plasthärdare
+plastimpregnerare
+plastmaskinoperatör
+plastreparatör
+plastsvetsare
+plastvaruarbetare
+skumplastarbetare
+strängsprutare
+uppläggare
+hemtextilsömmerska
+konfektionssömmerska
+industrisömmerska
+maskinoperatör, konservering
+maskinoperatör, kött
+maskinoperatör, fisk
+färdigmatlagare
+maskinoperatör, rökning
+stansare, skor
+väskmakare
+repslagare
+snörmakare
+färgare
+plysare
+textiltryckare
+maskinoperatör, bageri
+maskinoperatör, gummiindustri
+regummerare
+maskinoperatör, konfektyrindustri
+kemtvättare
+mattvättare
+pressare, kläder
+tvätteriarbetare/tvättbiträde
+kvarnmaskinskötare
+kvarnoperatör
+maskinoperatör, foder
+mjölnare
+processoperatör, kvarn
+siloarbetare
+spannmålsarbetare
+spannmålstorkare
+ammoniakkokare
+destruktionsmaskinist
+elektrofilterskötare
+kolare
+maskinoperatör, kemitekniska produkter
+ljusformare
+ljusstöpare
+mesabrännare
+sprayare
+tjärkokare
+maskinoperatör, sockerindustri
+maskinoperatör, te-, kaffe- och kakaoberedning
+maskinoperatör, tobaksindustri
+tappare, bryggeri
+tappmaskinskötare
+brygghusarbetare
+brännmästare
+brännvinsbrännare
+läskedrycksberedare
+mältare
+processoperatör, bryggeri
+spritberedare
+vinberedare
+Ättiksberedare
+glassberedare
+maskinskötare, glasstillverkning
+maskinskötare, mejeri
+processoperatör, mejeri
+befälhavare, kustbevakningen
+avionikmekaniker
+finmekaniker
+flyginstrumentmekaniker
+instrumentmekaniker
+instrumentmontör
+mikromekaniker
+mätarjusterare
+finansanalytiker
+finanskonsult
+internrevisor
+revisionschef
+ssa-sekreterare
+studie- och yrkesvägledare
+maskinoperatör, garnberedning
+maskinställare, textil
+vävlagare
+bandvävare
+solvare
+varpare
+vävare
+stickare, textilindustri
+virkmaskinskötare
+avsynare, tyger
+mobilkranförare
+pontonkranförare
+portalkranförare
+telferförare
+tornkranförare
+traversförare
+liftmaskinist
+liftskötare
+linbaneskötare
+traktorförare, industri
+tulltaxerare
+arkare
+bandsågare, träfiberskivor
+defibratorskötare
+fanerarbetare, fanertillverkning
+fanerpressare, fanertillverkning
+formatsågare, fiberskivor
+formpressare, skiktträ
+limberedare, träfiberindustri
+limmare, fiberskivtillverkning
+parkettarbetare
+plywoodarbetare
+pressare, spånskivor
+pressare, träfiber, spånskivor
+torkskötare
+träfiberskivarbetare
+gipstekniker
+tandteknikerbiträde
+kvalificerad skattehandläggare
+ornamentstenhuggare
+bergarbetare, gruva
+borrare, gruva
+brytare, gruva
+laddare, gruva
+malmarbetare
+malmlastare, gruva
+ortdrivare/tillredare
+schaktsänkare
+skrotare
+stigortsdrivare
+tappare, gruva
+bergsprängare
+borrförman, berg
+stenborrare
+tunnelsprängare
+brottarbetare
+brytare, stenbrott
+gravstenhuggare
+kalkbrottsarbetare
+kilare, stenbrott
+monumentstenhuggare
+skifferbrottarbetare
+stenarbetare
+stenbildhuggare
+stenborrare, stenbrott
+stenbrytare
+stenhuggare
+hattmakare
+ateljésömmerska
+damskräddare
+herrskräddare
+klänningssömmerska
+Ändringsskräddare
+handsksömmare
+linnesömmerska
+skinnsömmerska
+barnmorska, vårdavdelning/bb-avdelning
+barnmorska, öppen vård/mödravård
+distriktsbarnmorska
+försvarsmeteorolog
+prognosmeteorolog
+befolkningsstatistiker
+biostatistiker
+demograf
+matematisk statistiker
+metodstatistiker
+miljöstatistiker
+chefssjuksköterska
+sektionschef, sjukhus
+hemsjukvårdare
+sjuktransportör
+arbetspsykolog
+barnpsykolog
+företagspsykolog
+klinisk psykolog
+skolpsykolog
+barnterapeut
+gruppterapeut
+individualterapeut
+psykoanalytiker
+alkohol- och drogterapeut
+habiliteringsassistent
+hemterapeut
+kvinnojoursarbetare
+rehabiliteringsassistent
+ungdomsassistent
+hemvårdsassistent
+lekterapeut
+skolvärd/skolvärdinna
+arbetsterapibiträde
+audiometris
+baderska, sjukhem
+specialisttandläkare
+fritidsassistent
+fritidsinstruktör
+fritidskonsulent
+ungdomsgårdsföreståndare
+ungdomskonsulent, fritid
+ungdomsledare
+friskvårdsledare
+chefsarbetsterapeut
+hjälpmedelskonsulent
+farmaceut/apotekare
+akupunktör
+bildterapeut
+dansterapeut
+homeopat
+logopedassistent
+musikterapeut
+naturterapeut
+osteopat
+zonterapeut
+laboratorieassistent
+astronom
+atomfysiker
+kärnfysiker
+partikelfysiker
+plasmafysiker
+radiofysiker
+sjukhusfysiker
+strålningsfysiker
+barntimmeledare
+fritidsledare/ungdomsledare, församling
+assistent i församlingsarbete
+konsulent på stifts-/nationell nivå
+föreningsinstruktör
+socioterapeut
+familjebehandlare
+familjehemssekreterare
+familjerättssekreterare
+familjevårdsinspektör
+fältassistent
+ungdomssekreterare, socialtjänst
+vårdnadsutredare
+ambulanssjuksköterska
+anestesisjuksköterska
+intensivvårdssjuksköterska
+barnsjuksköterska, mottagning/vårdcentral
+barnsjuksköterska, vårdavdelning
+sjuksköterska, barnavårdscentral
+skolsköterska
+berggrundsgeolog
+geokemist
+gruvgeolog
+hydrogeolog
+kvartärgeolog
+paleontolog
+seismolog
+försäkringsaktuarie
+försäkringsmatematiker
+matematiker
+analytisk kemist
+biokemist
+organisk kemist
+processkemist
+sjukhuskemist
+ytkemist
+officiell veterinär
+distriktsveterinär
+djurhälsoveterinär
+epizootolog
+klinikveterinär
+laboratorieveterinär
+länsveterinär
+stadsveterinär
+hundpsykolog
+veterinärassistent
+kostkonsulent
+näringskonsulent
+smärtsjuksköterska
+organisationssekreterare, intresseorganisation
+antagningssekreterare, utbildning
+departementssekreterare
+integrationshandläggare
+kommunhandläggare
+kommunsekreterare
+kriminalvårdsinspektör
+kultursekreterare
+landstingssekreterare
+näringslivssekreterare/näringslivsutvecklare
+samhällsplanerare
+skolsekreterare
+inspektör, ivo (inspektionen för vård och omsorg)
+utredningssekreterare
+djurskyddsinspektör
+hälsovårdsinspektör
+miljöhandläggare
+miljöingenjör
+miljöinspektör
+miljösamordnare/miljökoordinator
+miljöskyddschef
+miljövårdsingenjör
+naturvårdsingenjör
+miljöcontroller
+vårdutvecklare
+sjuksköterska, diagnostisk radiologi
+dietetiker
+näringsforskare
+laboratoriebiträde, fys.lab.
+laboratoriebiträde, kem.lab.
+laboratoriebiträde, sjukhus
+omsorgskurator
+primärvårdskurator
+sjukhuskurator
+skolkurator
+familjepedagog
+frivårdschef
+frivårdshandläggare
+dövblindkonsulent
+dövkonsulent
+synkonsulent
+ledsagare
+ambassadör
+fondchef, statlig
+generaldirektör
+generalkonsul
+kabinettsekreterare
+landshövding
+minister
+förbundschef
+förbundsordförande
+förhandlingschef, organisation
+generalsekreterare
+kanslichef, organisation
+verksamhetschef, hälso- och sjukvård
+klinikchef, tandvård/verksamhetschef, tandvård
+områdeschef, barnomsorg
+enhetschef, hemtjänst/områdeschef, hemtjänst
+områdeschef, äldre- och handikappomsorg
+Äldreomsorgschef
+laboratoriechef
+föreståndare, äldreboende
+servicehusföreståndare
+flyktingsamordnare/flyktingkonsulent
+invandrarkonsulent
+invandrarsekreterare
+stiftsdiakon
+pedagogassistent
+målare
+båtinredare
+varvssnickare
+kakelugnsmakare
+ugnsmurare
+domprost
+komminister
+kyrkoherde
+pastorsadjunkt
+sjukhuspräst
+stiftsadjunkt
+baptistpastor
+evangelist, resepastor
+församlingsföreståndare, frikyrka
+metodistpastor
+församlingsföreståndare, frälsningsarmén
+kaplan
+imam
+lantbrevbärare
+postterminalarbetare
+teaterkassör
+kassapersonal
+dopplackerare
+emaljerare, lackering
+lackerare
+maskinskötare, lackering
+möbellackerare
+expeditör, spedition
+förtullare
+tallyman
+tulldeklarant
+tullombud
+folkbokföringshandläggare
+kanslist
+distributionsassistent
+kontorsbiträde
+lagerkontorist
+leveransbevakare
+orderassistent
+personalkontorist
+personalredogörare
+planeringskontorist
+punktskriftskontorist
+skeppningsassistent
+skeppningskontorist
+statistikkontorist
+verkstadskontorist
+godsmottagare
+terminalarbetare
+uppackare/furnerare
+lagerplanerare
+dealer
+bingofunktionär/bingovärd/bingovärdinna
+kioskbiträde
+konditoribiträde
+reservdelsspecialist/bildelsspecialist
+båtförsäljare
+husvagnsförsäljare
+butikssäljare/medarbetare, dagligvaror
+charkuteriarbetare, butik
+butiksdemonstratör
+kundtjänstmedarbetare
+parkettläggare
+annonschef
+annonskonsulent
+biluthyrare
+stuguthyrare
+uthyrningschef
+abonnemangsförsäljare
+bantekniker
+beläggningsarbetare
+plantör
+växtskötare
+utsättarbiträde
+demonteringsarbetare/rivningsarbetare
+underhållsarbetare
+ekotoxikolog
+forskare, farmakologi
+läkemedelsinspektör
+toxikolog
+mannekäng
+bilglasmontör
+glas- och metallmontör
+isoleringsmontör
+ventilationsisolerare
+akvariefiskuppfödare
+dammskötare, fiskodling
+fiskmästare
+fiskodlingsarbetare
+musselodlare
+vattenbrukare
+fiskerikontrollant
+fiskeskeppare
+fastighetstekniker/drifttekniker, fastighet
+kyrkvaktmästare
+kronoassistent
+inkasserare
+korgmakare
+korgmöbelmakare
+metodanalytiker, it
+systemanalytiker/systemutredare
+systemdesigner
+systemutvecklare/programmerare
+databasdesigner
+databastekniker
+databasutvecklare
+arkivföreståndare
+arkivråd
+bildarkivarie
+filmarkivarie
+konstintendent
+krigsarkivarie
+bibliotekskonsulent
+skolbibliotekarie
+antikvarie
+museiintendent
+informatikerassistent
+arkivkanslist
+informatiker
+butikskontrollant
+flygplatskontrollant
+ordningsvakt
+gränskontrollant/passkontrollant
+skyddsvakt
+säkerhetsvakt
+garagevakt
+trafikvakt
+trafikvärd/taxivärd
+trafikövervakare
+kriminalvårdare
+brovakt
+kommunikationstekniker
+nätverksadministratör
+nätverksansvarig
+nätverksoperatör
+webbansvarig/webbstrateg
+webmaster
+aktieanalytiker
+aktiemäklare
+institutionsmäklare
+penningmarknadsmäklare
+placeringsrådgivare
+valutahandlare
+valutamäklare
+inköpsingenjör
+inköpsledare
+inköpsplanerare
+inköpstekniker
+uppköpare
+fritidsombud, försäkringar
+fälttjänsteman, försäkringar
+försäkringskonsulent
+försäkringsombud
+försäkringsrådgivare/försäkringssäljare
+försäkringsspecialist
+försäkringshandläggare
+försäkringstjänsteman
+bilskadereglerare
+brandskadereglerare
+civilskadereglerare
+fältskadereglerare
+försäkringsutredare
+personskadereglerare
+besiktningsingenjör, försäkring
+bilskadeinspektör, försäkring
+båtbesiktningsman
+båtskadeinspektör
+civilskadeinspektör
+skadeingenjör, försäkring
+skadetekniker
+riskingenjör, försäkring
+tarifferare
+fastighetsförmedlare
+bostadsförvaltare
+bostadsintendent
+fastighetsassistent
+fastighetsinspektör
+fastighetsintendent
+fastighetskamrer
+fastighetssekreterare
+hyresintendent
+hyreskonsulent
+områdesförvaltare
+internationell säljare/exportsäljare
+systemsäljare
+innesäljare
+läkemedelskonsulent
+mediasäljare
+säljkonsulent
+säljledare
+värderingsassistent
+byggnadssmed
+hammarsmed
+kallslagare
+klensmed
+pressmed
+smidesmekaniker
+smidesoperatör
+verktygssmed
+bänkarbetare
+modellmakare, metall
+automatställare
+maskinställare
+riggare, verktygsmaskiner
+verktygsställare
+gradare
+tidningsbud/tidningsdistributör
+reklamdistributör/reklamutdelare
+automatsvarvare
+punktsvetsare
+robotsvetsare
+svetsoperatör/automatsvetsare
+automatpressare, metall
+excenterpressare/pressoperatör, metallarbete
+präglare, metall
+bandsågare, metall
+kallsågare, metall
+it-säkerhetschef/it security manager
+säkerhetsadministratör, it
+säkerhetsanalytiker, it
+säkerhetsansvarig, it
+gassvetsare
+spårsvetsare
+auktionskommissarie
+auktionsutropare
+kreditberedare
+kreditbevakare
+kreditchef
+kreditman
+kreditrådgivare
+orderfördelare
+orderplanerare
+prissättare
+handelsagent, partihandel
+exportspeditör
+flygspeditör
+importspeditör
+speditionsförman
+speditionstjänsteman
+fartygsklarerare
+flygmäklare
+skeppningsplanerare
+transportadministratör
+transportingenjör
+transportsamordnare
+befraktare
+linjeagent
+rederiagent
+skeppningschef
+fortbildningssekreterare
+kursadministratör
+studieadministratör
+studieassistent
+studiekonsulent
+studieorganisatör
+studiesekreterare
+utbildningsassistent
+administrativ assistent
+direktionssekreterare
+vd-sekreterare
+boupptecknare
+boutredningsman
+inkodare
+advokatsekreterare
+reklamsekreterare
+stenograf
+expeditionsföreståndare, sjukvård
+trafficman
+hårdlödare
+mjuklödare
+stansare, tunnplåt
+fasadmontör
+cisternvårdare
+fartygsplåtslagare
+grovplåtnitare
+pannplåtslagare
+metallkonstruktionsmontör
+liftbyggare/liftmontör/montageledare, liftar
+anläggningsdykare
+bärgningsdykare
+inspektionsdykare
+krossverksmaskinist
+kvarnskötare, stenkross
+sorteringsverksskötare, stenkross
+stenkrossmaskinist
+stenkrossmatare
+anrikningsarbetare, malm
+krosskötare, malmkross
+kulkvarnskötare, malmanrikning
+malmanrikare
+malmförädlingsarbetare
+malmkrosskötare
+pumpman, oljeborrning
+mätaravläsare
+avloppstekniker
+stationsarbetare
+snöskottare
+granskare, revision
+granskningsman
+revisionsbiträde
+siffergranskare
+bokförare
+kamrer
+maskinbokförare
+redovisningsman
+badbevakare
+simhallsvakt
+strandvakt
+kärnborrare
+it-samordnare
+it-utredare
+systemadministratör
+systemförvaltare
+karusellsvarvare
+supportsvarvare
+verkstadsmekaniker/verkstadstekniker
+avsynare, gjutgods
+kontrolloperatör, metallprodukter
+kvalitetsmätare, metallprodukter
+mättekniker, metallprodukter
+bildemontör
+avdelningschef, bank
+gruppföreståndare, bank
+lånechef
+notariatchef, bank
+notariattjänsteman, bank
+företagsrådgivare
+gelbgjutare
+gjutmästare
+konstgjutare
+tenngjutare
+vaxgjutare
+beställningsfaktor
+byggnadskalkylator/anbudsingenjör
+offertberedare
+offertchef
+offertingenjör
+trycksaksfaktor
+artistagent
+artistbokare
+idrottsagent/sportagent
+litterär agent
+manager
+musikagent
+avgjutare
+kokillgjutare
+maskinformare, gjuteri
+maskinkärnmakare
+pressgjutare
+sandberedare, gjuteri
+hyttskötare, järnbruk
+masugnsarbetare
+sintare
+blåsare, stålverk
+elektrodskötare
+kokillskötare
+ld-operatör
+reglerare, stålverk
+sinterblandare
+skänkskötare
+stränggjutare, stålverk
+ugnsskötare, stålverk
+rördragare
+skivställare
+trådspolare, metall
+supporttryckare
+trycksvarvare
+metallduksvävare
+bokföringskontorist
+budgetassistent
+ekonomikontorist
+fakturakontrollant
+förvaltningsassistent
+redovisningsassistent
+avlöningskontorist
+löneadministratör
+löneassistent/lönekontorist
+lantbrukskassör
+driftledare, it
+förvalsare
+inläggare, valsverk
+maskinvalsare
+reglerare, valsverk
+valsare
+värmare, valsverk
+assessor
+domstolsjurist
+fiskal
+hovrättsassessor
+hovrättslagman
+jurist, förvaltningsdomstol
+jurist, specialdomstol
+kammarrättsassessor
+kammarrättsfiskal
+kammarrättslagman
+kammarrättsråd
+lagman
+rådman
+tingsfiskal
+tingsnotarie/notarie
+allmän åklagare
+assistentåklagare
+chefsåklagare
+distriktsåklagare
+kammaråklagare
+statsåklagare
+Åklagarassistent
+Överåklagare
+brottmålsadvokat
+tvistemålsadvokat
+konferenstolk
+lexikograf
+rättstolk
+sjukvårdstolk
+teckenspråkstolk/dövblindtolk
+skrivtolk/vuxendövtolk
+Översättare
+språkforskare
+ekonometriker
+samhällsekonom
+marinarkeolog
+slöjdare
+träslöjdare
+träsnidare
+brodös
+handstickare
+handvirkare
+handvävare
+preparator
+textilvårdare
+avsynare, glas- och keramikprodukter
+blockgjutare
+drejare
+epoxigjutare
+formgjutare, keramik
+gipsgjutare
+gjutare, keramik
+handformare
+kakelformare
+keramikpressare
+krukmakare
+modellgjutare, keramik
+modellör, keramik
+ocularist
+porslinsgjutare
+porslinsputsare
+porslinsslipare
+konstnär
+textilkonstnär
+musikalartist
+kriminolog
+rättssociolog
+designer
+industridesigner
+redaktionssekreterare
+redaktör
+taltidningsredaktör
+sångare, klassisk musik
+arrangör, musik
+tonsättare
+orkesterledare
+repetitör
+kantor
+konsertmästare
+regiassistent
+malmvägare
+garvare/skinnberedare
+garvarmästare
+hudsorterare
+pälsskinnberedare
+kalkhusarbetare, garveri
+läderfärgare
+råhudsarbetare
+skinnfärgare
+spaltmästare, garveri
+rektor
+skolchef
+skoldirektör
+skolinspektör
+studierektor
+utbildningsintendent
+polisassistent
+inspektör, polisen
+kommissarie, polisen
+cykelbud
+motorcykelbud
+distriktsinstruktör/distriktstränare
+distriktskonsulent
+förbundstränare
+idrottsinstruktör/idrottstränare
+idrottspedagog
+motionskonsulent
+sportchef
+sportledare
+ungdomsinstruktör/ungdomstränare
+radio officer
+radioexpeditör
+ljudassistent
+ljudbandstekniker
+ljudingenjör
+mixare, ljudtekniker
+Överspelningstekniker
+belysningstekniker
+ljusdesigner
+akrobat
+clown
+lindansare
+stuntman
+hörselvårdsingenjör/hörselingenjör
+hörselvårdstekniker
+röntgentekniker
+sjukhusingenjör
+sjukhustekniker
+fortbildningskonsulent
+förskolekonsulent
+hörselvårdskonsulent
+läromedelsintendent
+skolkonsulent
+studieinstruktör
+undervisningsråd
+körledare
+musikpedagog/musiklärare
+museilektor
+kursutvecklare
+utbildningskonsulent, företag
+utbildningsledare
+utbildningsplanerare, företag
+datainstruktör
+datapedagog/it-pedagog/datautbildare
+dispatcher
+trafikpedagog
+utbildningsledare, trafikskola
+distriktsstudieledare
+musikhandledare
+studieledare
+länshemslöjdskonsulent
+dramalärare/dramapedagog
+kapellmästare
+notskrivare
+entertainer
+illusionist
+imitatör
+jonglör
+stand-up-komiker
+trollkarl
+konferencier
+programledare
+programpresentatör
+läkepedagog
+röstpedagog
+sjöbevakningsassistent
+driftkopplingstekniker
+ob-tekniker
+ortopedtekniker
+dentaltekniker
+laboratorietandtekniker
+sjukhustandtekniker
+gatuförsäljare
+hemförsäljare
+forskare, filosofi
+framtidsforskare
+fredsforskare
+genealog
+forskare, historia
+forskare, humaniora
+forskare, teologi
+patinerare
+ad-assistent
+originaltecknare
+animatör
+serietecknare
+tatuerare
+dekorationsmålare, skyltning
+dekormålare
+reklamtextare
+lektör
+annonsproducent
+korrekturläsare
+dramatiker
+dramaturg
+manusförfattare
+informationskonsult
+informationssekreterare
+pressekreterare
+produktionsplanerare: kultur, media, film
+bildredaktör
+it-producent
+attributör
+studioman
+scenförman
+scentekniker
+filmpassare
+produktionssekreterare
+programsekreterare
+kostymassistent
+kostymör
+jockey
+travkusk
+tävlingsryttare
+webbdesigner
+anfångare
+ben- och fotanfångare
+benmakare
+glasblåsare
+glasslipare
+glasverksarbetare
+hyttmästare/produktionsledare, glasbruk
+kantslipare, glas
+kulare, glas
+planare, glas
+planslipare, glas
+uppblåsare
+blästrare, glas
+dekorslipare, glas
+fotoetsare
+glasetsare
+mönsterslipare, glas
+ortopedskomakare
+ortopedskotekniker
+centrifugoperatör, glas
+glasarbetare
+glashärdare
+glasmaskinskötare
+glaspressare
+glassmältare
+glastryckare
+glasögonslipare
+linsslipare
+maskinskötare, glas
+smältare, glas
+värmare, glas
+avplockare, keramikbränning
+maskinskötare, tegelbruk
+ugnsuppsättare, keramik
+brännare, glas, keramik
+massaberedare, keramik, tegel
+mängberedare
+slipmaterialarbetare
+slipskiveformare
+slipverktygsarbetare
+slipverktygsoperatör
+slipverktygstillverkare
+smärgelduksarbetare
+ugnsskötare, glas, keramik
+försäkringsjurist
+kommunjurist
+landstingsjurist
+stadsadvokat
+stadsjurist
+stadsombudsman
+stadssekreterare
+patentjurist
+upphovsrättsjurist
+affärsjurist
+fastighetsjurist
+företagsjurist
+koreolog
+gravör, metall
+maskingravör, metall
+skyltgravör
+skylttillverkare
+stansgravör
+stålgravör
+inspelningstekniker
+musiktekniker
+studiotekniker
+belysningsmästare
+elektriker, film/tv
+kulturgeograf
+naturgeograf
+antropolog
+etnolog
+grafisk formgivare
+layoutchef
+layoutare
+layouttecknare
+reklamdesigner
+båtman, sjöfartsverket
+endestyrman
+Överstyrman
+dekorationsmålare, glas
+dekorationsmålare, porslin
+dekoratör, keramik, glas
+emaljerare, keramik
+folierare
+färgtryckspåläggare, porslin
+glaserare, keramik
+glasmålare
+lackerare, porslin
+porslinsdekoratör
+porslinsmålare
+skorstensfejartekniker
+asbestsanerare
+brandskadesanerare
+klottersanerare
+oljesanerare
+ventilationssanerare
+båtsman/bås
+jungman
+lättmatros
+fartygsreparatör
+motorelev, fartyg
+extruderskötare, metall
+plåtriktare
+ringverksarbetare
+rörbockare
+rörriktare
+spikmaskinskötare
+strängpressare, metall
+auktionsbiträde
+biografvärd/biografvaktmästare
+dörrvakt
+expeditionsvakt
+hotellvaktmästare/piccolo
+konferenstekniker
+kontorsvaktmästare
+betongstationskötare
+processoperatör, betong
+asfaltarbetare
+asfaltkokare
+asfaltmaskinist
+processoperatör, asfalt
+cementbrännare
+armerare, betongvaruindustri
+avsynare, betongvaror
+formsättare
+gjutare, betongvaruindustri
+lättbetongarbetare
+formare, gipsplattor
+konststensgjutare
+maskinoperatör, gipsplattor
+stenslipare
+stensvarvare
+stensågare
+butiksinspektör
+restauranginspektör
+vägvakt
+byggnadsingenjör
+byggnadskonsult
+arbetsledare, husbyggnad
+arbetsledare, anläggning
+trafikingenjör
+gruvmätare
+markingenjör
+mätningstekniker, bygg
+anläggningsingenjör, elkraft
+beräkningsingenjör, elkraft
+elkonstruktör
+provningsingenjör, elkraft
+ritare, elkraft
+arbetsledare, elkraft
+arbetsledare, tillverkning, elkrafttekniska produkter
+driftingenjör, elkraft
+elkrafttekniker
+eltekniker
+installationsingenjör
+nätplanerare
+planeringsingenjör, elkraft
+serviceingenjör, elkraft
+servicetekniker, elkraft
+besiktningsingenjör, elkraft
+kvalitetsingenjör/-tekniker, elkraft
+ritare, elektronik
+arbetsledare, tillverkning, elektroniska produkter
+planeringsingenjör, elektronik
+kontrolltekniker, elektronik
+kvalitetsingenjör/-tekniker, elektronik
+servicetekniker, elektronik
+ritare, maskin
+arbetsledare, maskintillverkning, verkstadsprodukter
+driftingenjör, reningsverk
+driftingenjör, vattenverk
+driftingenjör, värmeverk
+planeringsingenjör, maskin
+verkstadsingenjör
+kvalitetsingenjör/-tekniker, maskin
+servicetekniker, maskin
+arbetsledare, tillverkning kemiska produkter
+planeringsingenjör, kemiteknik
+planeringstekniker, kemiteknik
+kontrolltekniker, kemiteknik
+kvalitetsingenjör/-tekniker, kemiteknik
+kemiingenjör
+arbetsledare, gruvbrytning och metallproduktion
+planeringstekniker, metallurgi
+serviceingenjör, metallurgi
+kvalitetsingenjör/-tekniker, metallurgi
+ritare, textil, trä, glas, förpackningar
+arbetsledare, tillverkning, textil- och träprodukter
+planeringsingenjör, textil, trä, glas, förpackningar
+planeringstekniker, textil, glas, trä, förpackningar
+kontrolltekniker, textil, trä, glas, förpackningar
+kvalitetsingenjör, textil, trä, glas, förpackningar
+livsmedelsingenjör
+ostmästare
+bössmakare
+pjäsmekaniker
+vapentekniker
+budbilsförare
+limousineförare
+pälssömmerska
+bilsadelmakare/biltapetserare
+bandsågare
+borrare, trä
+fanerare
+fanerskärare
+fogare, faner
+fräsare, trä
+hyvlare, trä
+kontursågare, snickeri
+limmare, snickeri
+listarbetare
+listmakare
+maskinsnickare/operatör, snickeri, inredning
+maskinoperatör, ytbehandling, trä
+planhyvlare, trä
+slipare, snickeri
+snickerimaskinskötare
+träsvarvare
+verkstadssnickare
+gradör
+maskinskärare
+direktris/garment technician/mönsterkonstruktör
+mönsterritare, tyger
+tillskärare, skinnkläder
+avsynare, pappersprodukter
+blöjmaskinskötare
+kartongmaskinskötare
+kuvertmaskinskötare
+påsmaskinskötare
+säckmaskinskötare
+wellpappmaskinförare
+dockmakare
+keramiker
+konstsmed
+advokatfiskal
+it-jurist
+juridisk ombudsman
+förbundsjurist
+sandwichman
+skoputsare
+inspelningsledare
+teaterinspicient
+tv-inspicient
+riksantikvarie
+riksarkivarie
+statsheraldiker
+arkivchef
+museichef/museidirektör
+Överbibliotekarie
+ambassadråd
+ambassadsekreterare
+attaché
+byggnadsråd
+byråchef
+expeditionschef, departement
+förhandlingschef, statlig
+förhandlingssekreterare, statlig
+kriminalvårdsdirektör
+lantbruksdirektör
+lantmäteridirektör
+länsarkitekt
+länsbostadsdirektör
+länsjägmästare
+länsskattechef
+medicinalråd
+polisintendent
+polismästare
+polissekreterare
+skattedirektör
+vägdirektör
+husdjursrådgivare/husdjurskonsulent
+jordbruksforskare
+jordbruksrådgivare/jordbrukskonsulent
+landsbygdsutvecklare
+lantbruksrådgivare/lantbrukskonsulent
+maskinrådgivare/maskinkonsulent
+fruktodlingsrådgivare/fruktodlingskonsulent
+trädgårdsforskare
+trädgårdsrådgivare/trädgårdskonsulent
+växtodlingsrådgivare/växtodlingskonsulent
+växtskyddsspecialist
+skogsbruksforskare
+skogskonsulent/skogsvårdskonsulent
+fiskeriinspektör
+fiskeriintendent
+bärodlare
+fruktodlare
+grönsaksodlare
+blomsterodlare
+trädgårdsförman
+arbetsledare, trädgård/trädgårdsanläggningsförman
+kyrkogårdsförman
+parkförman
+trädgårdsmästare, anläggning
+golfbanearbetare
+greenkeeper
+griftegårdsarbetare/kyrkogårdsarbetare
+stallchef/stallförman
+stuteriarbetare
+hunddressör
+hundgårdsförman
+hundtrimmare
+hunduppfödare
+kennelföreståndare
+arrendator, blandad drift
+arbetsledare, skogsbruk
+kontrollmätare, virke
+sporthallsvaktmästare
+annonsgrafiker
+bild- och reprografiker
+blysättare, tryckeri
+desktopoperatör
+klichémontör
+filmmontör, tryckeri
+originalmontör
+reprofotograf
+retuschör
+schablontillverkare, screentryck
+djuptrycksetsare
+djuptrycksgalvanisör
+cylindergravör
+handgravör, tryckmedier
+kopparsticksgravör, tryckmedier
+maskingravör, tryckmedier
+stålsticksgravör
+tapetvalsgravör
+bokbindare
+pappersskärare, bokbinderi
+skogsingenjör
+skogsbruksrådgivare
+administrativ utvecklare
+civilingenjör, organisationsutveckling
+ekonomikonsult
+företagskonsulent
+företagskonsult
+kvalitetschef
+kvalitetskoordinator
+kvalitetsrevisor
+kvalitetssamordnare
+organisationskonsult
+verksamhetskonsult
+flyginstruktör/flyglärare
+energirådgivare
+bakteriolog
+botaniker
+ekolog
+entomolog
+fiskeribiolog
+fysiolog, allmän
+genetiker
+hydrobiolog
+immunolog
+limnolog
+marinbiolog
+mikrobiolog
+molekylärbiolog
+mykolog
+talassolog
+virolog
+zoolog
+Ärftlighetsforskare
+jaktkonsulent/viltkonsulent
+jaktvårdskonsulent/jaktvårdsrådgivare
+länsjaktvårdskonsulent
+viltmästare
+serviceelektriker, installation
+fotograf
+fotografassistent
+animationsoperatör
+bildproducent
+kameraman, tv
+filmklippare
+tv-redigerare
+videoredigerare
+reklamassistent
+djuptryckare
+flexotryckare
+färgblandare, tryckeri
+laminerare, tryckeri
+maskinoperatör, tryckeri
+offsettryckare
+pressbiträde
+rulloffsettryckare
+systemoperatör, tryckeri
+tapettryckare
+budgetplanerare
+budgetsekreterare
+förbundskassör
+koncerncontroller
+konstnärsmodell
+handlingskoordinator
+förman, snickeri
+karosserisnickare
+möbelrenoverare/möbelrestauratör
+reparationssnickare
+träbildhuggare
+vagnmakare
+lästmodellör
+modellbyggare
+modellmakare
+polerare, trä
+konstinramare/rammakare
+ytbehandlare/sprutlackerare, manuell, trä
+affärsområdeschef
+bankdirektör
+flygplatschef
+hamnchef
+verkställande direktör/vd
+assistent, bostadsförmedling
+garantihandläggare
+reklamationshandläggare
+personaldirektör
+personalintendent
+annonsassistent
+annonsmottagare
+annonssekreterare
+beställningskontorist
+försäljningsassistent
+försäljningssekreterare
+inköpsassistent/inköpskontorist/inköpssekreterare
+säljassistent
+säljsekreterare
+ateljéchef
+avdelningschef, butik
+butiksansvarig
+campingplatsföreståndare
+föreståndare, stugby
+hovrättspresident
+justitiekansler
+justitieombudsman
+diskrimineringsombudsman
+kammarrättspresident
+konsumentombudsman
+länspolismästare
+länsåklagare
+näringsfrihetsombudsman
+rikspolischef
+riksåklagare
+pälsdjursuppfödare
+trafikplanerare, transportföretag
+planerare, flygbolag
+rampförman, flygplats
+lastningsförman/load master
+rampagent
+stuveriförman
+trafikförman
+trafikledare, vägtrafik
+produktionsledare: kultur, media, film
+förrådschef
+leveranschef
+banområdeschef
+hamnkapten
+produktområdeschef, järnväg
+stationschef, flyg
+transportchef
+biodlare/biskötare
+smådjursskötare
+parkchef
+regionchef, skogsbruk
+stadsträdgårdsmästare
+platschef, bygg
+apoteksassistent
+tandvårdsbiträde
+obduktionsbiträde
+bokförläggare
+musikförläggare
+redaktionschef
+fastighetsdirektör
+budgetchef
+ekonomidirektör/finanschef
+ekonomiledare
+näringslivschef
+planeringschef
+redovisningschef
+utredningschef
+marknadschef
+regionchef, försäkring
+regionchef, butik
+driftchef, lantbruk
+driftledare, lantbruk
+lantbruksförvaltare
+resebyråchef
+importchef
+elverkschef
+vattenverkschef
+verkstadschef
+distributionschef, logistik och transporter
+logistikchef
+speditionschef
+informationschef/kommunikationschef
+pr-chef
+presschef
+reklamchef
+plantskolechef
+arbetsförmedlingschef
+platschef/områdeschef, försäkringskassa
+turistbyråchef
+gjutgodsrensare
+halmvaruarbetare
+konverteringsarbetare, papper
+träullsarbetare
+tunnbindare
+uppslagare, gjuteri
+akademisekreterare
+kanslijurist
+länsassessor
+organisationsjurist
+eurytmist
+mimpedagog
+teckenspråkslärare
+paketläggare
+virkesimpregnerare
+av-tekniker
+filmtekniker
+teatertekniker
+turnétekniker
+videotekniker/vb-tekniker
+boendechef, kommun
+fritidschef
+förvaltningschef, kommun
+gatuchef
+kulturchef
+omsorgschef
+räddningschef
+socialchef
+socialdirektör
+stadsbyggnadschef
+stadsbyggnadsdirektör
+teknisk chef, kommun
+teknisk direktör, kommun
+turistchef
+turistintendent
+trafikskolechef
+utbildningschef
+parkförvaltare
+packare
+varumärkare
+emballerare
+falsare
+packmästare
+flygplanslastare
+flyttkarl/stadsbud
+hamnarbetare/stuveriarbetare
+depåman/depåtekniker
+balpressare
+penselmakare
+valutaförsäljare
+maskinoperatör, mekanisk verkstad
+servicetekniker, kontorsmaskiner
+skorstensfejarmästare
+bebyggelseantikvarie
+resesäljare/reseförsäljare/resekonsulent
+fordonslackerare
+fondförvaltare/portföljförvaltare
+informationsmäklare
+projektledare, reklam
+värdetransportör
+gaspåfyllare
+butikssäljare, fackhandel
+kock, fartyg
+elingenjör, fartyg/fartygseltekniker
+befälhavare
+2:e styrman
+1:e fartygsingenjör/1:e maskinist
+2:e fartygsingenjör/2:e maskinist
+teknisk chef/maskinchef, fartyg
+administrativ chef
+besöksbokare/kundbokare
+telefonintervjuare
+projektledare, it
+sos-operatör
+gis-ingenjör
+it-revisor
+biträdande jurist
+rekryterare/rekryteringskonsult
+balettmästare
+ledande montör, el
+resemontör, maskin
+pendeltågsförare/motorvagnsförare
+paketbilsförare
+förrådsarbetare, bygg
+systemtestare/funktionstestare
+bryggmästare
+cio, chief information officer/it-chef
+pc-koordinator
+drifttekniker, data
+it-strateg
+driftchef, data
+nagelterapeut/nagelteknolog
+livsmedelsarbetare, mejeri
+skrovbyggare, trä
+arkitekt
+landskapsarkitekt
+inredningsarkitekt
+konstruktör, el-tele
+kvalitetsingenjör, el-tele
+patentingenjör/patentkonsult
+yrkeshygieniker
+logistiker
+lantmätare/förrättningslantmätare
+metallurg
+produktionsingenjör, gjuteri
+geotekniker
+geodet
+ekonomiföreståndare
+skolmåltidsföreståndare
+internatföreståndare
+specialkock
+kocksteward
+kallskänka
+hovmästare
+servitör/servitris
+bartender
+mässman, fartyg
+servitör/servitris, kafé och konditori
+frisör
+maskör/sminkör
+hudterapeut
+badmästare
+begravningsentreprenör
+krematoriemästare/krematorieföreståndare
+betjänt
+slaktare
+styckare
+charkuterist
+bagare/konditor
+pizzabagare
+driftmaskinist, värmeverk
+underhållstekniker, vattenrening
+fordonsmontör
+montör, gummi- och plastprodukter
+montör, träprodukter
+montör, el- och teleutrustning
+montör, papp- och textilprodukter
+laboratorieingenjör, kemi
+laboratorieingenjör, fysik
+kartingenjör
+köttklassificerare
+kvalitetsbedömare, livsmedel
+produktionschef, tillverkning
+driftchef, energi
+hallföreståndare
+officer
+restaurangchef
+personaladministratör/personalassistent
+marknadsförare
+marknadsanalytiker
+lokförare/förare av tåg
+tunneltågförare
+restaurangbiträde
+diskare
+maskinförare, lantbruk/traktorförare, lantbruk
+skogsmaskinförare
+bussförare/busschaufför
+ballongflygare
+brandingenjör
+lots, fartyg
+försäkringshandläggare, försäkringskassa
+handläggare, utredare, arbetslöshetskassa
+kundmottagare/verkmästare, bilverkstad
+flygtekniker
+cykel- och mopedreparatör
+lastbilsmekaniker
+ergonom/företagsgymnast
+bilinspektör
+flygmekaniker
+flygplanselektriker
+byggnadsinspektör
+städchef
+processoperatör, pappersmassa
+processoperatör, papper
+maskinbefäl, fartyg
+fartygsinspektör
+reseledare
+guide
+receptionschef
+hotellreceptionist
+receptionist, telefonist
+turistbyråtjänsteman
+sågverksoperatör
+trafikassistent
+trafikinformatör
+ombordansvarig, tåg
+industrielektriker
+hissmontör
+fordonselektriker
+larminstallatör/larmtekniker
+distributionselektriker
+ställverksmontör
+fartygselektriker
+maskinreparatör
+lokreparatör
+guldsmed
+ciselör
+gemmolog
+växeltelefonist
+låssmed/låstekniker
+processoperatör, kemisk industri
+maskinoperatör, ytbehandling
+kopparslagare
+stränginstrumentmakare
+blåsinstrumentmakare
+dragspelsbyggare
+pianotekniker
+orgelbyggare
+trumtillverkare
+plastarbetare
+skofabriksarbetare
+nättillverkare
+däcksbyggare
+kvarnarbetare
+kolonnarbetare
+bryggeriarbetare
+mejeriarbetare
+maskinoperatör, fotografiska produkter
+kustbevakningstjänsteman
+tulltjänsteman
+urmakare
+hjälpmedelstekniker
+finansekonom
+revisor
+spårvagnsförare
+bokbussförare
+bilbärgare
+studievägledare
+kopieringsmaskinskötare
+fönsterputsare
+skidliftskötare
+truckförare
+maskinförare, träfiberskivor
+skattehandläggare
+stengravör
+bergarbetare
+modist
+skräddare
+segelmakare
+barnmorska
+meteorolog
+statistiker
+optiker/optometrist
+sjukvårdsbiträde
+ambulanssjukvårdare
+psykolog
+psykoterapeut
+behandlingsassistent/socialpedagog
+hemtjänstassistent
+lärare i förskola/förskollärare
+lärare i fritidshem/fritidspedagog
+barnskötare
+dagbarnvårdare
+elevassistent
+logoped
+tandsköterska
+tandhygienist
+tandläkare
+fritidsledare
+friskvårdskonsult/hälsovägledare
+fysioterapeut/sjukgymnast
+arbetsterapeut
+audionom
+biomedicinsk analytiker/bma
+naprapat
+kiropraktor
+fysiker
+församlingspedagog
+föreningskonsulent
+socialsekreterare
+akutsjuksköterska/sjuksköterska, akutmottagning
+barnsjuksköterska
+distriktssköterska
+geolog
+geofysiker
+kemist
+hydrolog
+veterinär
+djursjukskötare
+dietist
+förbundssekreterare
+ombudsman
+handläggare/utredare, offentlig förvaltning
+miljö- och hälsoskyddsinspektör
+miljörevisor
+sjuksköterska, medicin och kirurgi
+operationssjuksköterska
+sjuksköterska, psykiatrisk vård
+röntgensjuksköterska
+nutritionist/näringsfysiolog
+laboratoriebiträde
+kurator
+familjerådgivare/familjeterapeut
+frivårdsinspektör
+handikappkonsulent
+vårdbiträde
+personlig assistent
+hemvårdare
+förvaltningsdirektör, statlig
+organisationschef
+forskningschef
+boendeföreståndare, kommunal
+oceanograf
+socialkonsulent, arbetsförmedlingen
+diakon
+lärarassistent
+betongarbetare
+inredningssnickare/specialsnickare
+ställningsbyggare
+båtbyggare
+murare
+vvs-montör
+industrirörmontör
+kylmontör/kyltekniker
+träarbetare, gruva
+pastor, frikyrkoförsamling
+officer, frälsningsarmén
+präst, romersk-katolsk kyrka
+präst, grekisk-ortodox kyrka
+rabbin
+präst, annat trossamfund
+brevbärare
+industrilackerare
+blästrare
+speditionsassistent
+skolassistent
+kontorist
+lagerarbetare
+croupier
+kaféföreståndare
+bensinstationsbiträde/servicebiträde
+bilförsäljare
+demonstratör
+undertaksmontör
+tak- och tätskiktsmontör
+golvläggare
+betonghåltagare
+florist
+uthyrare
+stensättare
+väg- och anläggningsarbetare
+skördearbetare
+grovarbetare, bygg och anläggning
+torvarbetare
+fotomodell
+glastekniker/glasmästare
+vvs-isolerare
+fiskodlare
+fiskare
+fastighetsskötare/fastighetsarbetare
+skolvaktmästare
+pantlånare
+kronoinspektör
+delgivningsman
+inkassohandläggare
+korgmakeriarbetare
+databasadministratör
+arkivarie
+bibliotekarie
+biblioteksassistent
+arkivassistent
+dokumentalist
+brandman
+brandbefäl/räddningsledare/insatsledare
+väktare
+parkeringsvakt
+slussvakt
+privatdetektiv
+nätverkstekniker
+inköpare
+underwriter
+kundtjänsteman, försäkring
+skadereglerare
+besiktningsman/skadeinspektör, försäkring
+riskbedömare
+fastighetsmäklare
+fastighetsförvaltare
+reseproducent
+värderingsman
+smed
+hovslagare
+verktygsmakare
+verktygsuppsättare
+hyvlare, metall
+slipare, metall
+cateringarbetare
+fräsare
+borrare, metall
+metallsågare
+datasäkerhetsansvarig
+svetsare, manuell
+gasskärare
+auktionist
+kredithandläggare
+orderadministratör
+butikskonsulent
+speditör
+skeppsklarerare/waterclerk
+transportplanerare
+skeppsmäklare
+utbildningsadministratör/utbildningssekreterare
+chefssekreterare
+institutionssekreterare
+riksdagsstenograf
+klockare
+boutredare
+sekreterare
+läkarsekreterare/vårdadministratör/medicinsk sekreterare
+registrator
+traffic
+industriplåtslagare
+byggnadsplåtslagare
+bilplåtslagare/bilskade- och karosserireparatör
+cisternreparatör
+grovplåtslagare
+dykare
+stenkrosskötare
+processoperatör, malmanrikning
+brunnsborrare
+väderobservatör
+automatskötare
+miljöarbetare/renhållningsarbetare
+diversearbetare
+revisorsassistent
+redovisningsekonom
+badvakt
+ventilationsplåtslagare
+industrirobotoperatör
+kundvagnsuppsamlare
+systemansvarig
+pc-samordnare
+arborrare
+svarvare
+avsynare, metallprodukter
+cnc-operatör/fms-operatör
+demontör/Återvinningsarbetare
+privatekonomisk rådgivare
+gjutare
+garderobiär/garderobvaktmästare
+tivoliarbetare
+artistförmedlare
+gjuterioperatör
+reglerare, masugn
+processoperatör, stålindustri
+tråddragare
+processoperatör, värmebehandling
+metalltryckare
+ekonomiassistent
+kontorskassör
+dataoperatör
+valsverksoperatör
+skattejurist
+domare
+Åklagare
+advokat
+tolk
+lingvist
+nationalekonom
+arkeolog
+konsthantverkare
+formare, keramik
+skulptör
+dansare
+skådespelare
+mimartist
+dockspelare
+sociolog
+journalist/reporter
+kompositör
+dirigent
+regissör
+vågskötare
+kronofogde
+skolledare
+idrottskonsulent
+ljudtekniker
+ljussättare
+cirkusartist
+medicinteknisk ingenjör
+utbildningskonsulent, skola
+danspedagog
+teaterpedagog
+museipedagog/museilärare
+personalutbildare
+naturskoleföreståndare
+trafiklärare
+cirkelledare/studiecirkelledare
+hemslöjdskonsulent
+sångare, populärmusik
+musiker, populärmusik
+varietéartist
+inläsare
+programvärd/programvärdinna
+larmoperatör
+kopplingstekniker
+ob-assistent
+biografmaskinist
+ortopedingenjör
+tandtekniker
+mediepedagog
+originalare/final art
+illustratör
+kostymtecknare
+dekoratör
+redigerare
+förlagsredaktör
+copywriter
+författare
+informatör/kommunikatör
+teknikinformatör
+rekvisitör
+studiovärdinna
+scenmästare
+scripta
+produktionsassistent
+kostymmästare
+professionell idrottsutövare
+glasbruksarbetare
+glasgravör
+skomakare/skoreparatör
+processoperatör, glas
+tegelbruksarbetare
+bankjurist
+förvaltningsjurist
+immaterialrättsjurist
+bolagsjurist
+miljöjurist
+koreograf
+folkhögskolelärare
+gravör
+bildmixer
+scannertekniker/scanneroperatör
+tom, technical operation manager
+ljustekniker
+geograf
+socialantropolog
+sadelmakare
+art director/ad
+fartygsbefäl
+glas- och porslinsmålare
+skorstensfejare/sotare
+saneringsarbetare
+matros
+motorman, fartyg
+museiassistent
+gnistare
+betongblandare
+asfaltverksskötare
+processoperatör, cementtillverkning
+betongvaruarbetare
+stenmaskinskötare
+licenskontrollant
+mätningsingenjör/mbk-ingenjör
+kontrollingenjör, elkraft
+produktionsingenjör, elektronik
+kontrollingenjör, elektronik
+serviceingenjör, elektronik
+kontrollingenjör, maskin
+serviceingenjör, maskin
+kontrollingenjör, kemiteknik
+serviceingenjör, kemiteknik
+produktionsingenjör, gruv, metallurgi
+kontrollingenjör, gruv, metallurgi
+kontrollingenjör, textil, trä, glas, förpackningar
+livsmedelstekniker
+vapenmekaniker
+personbilsförare, persontransporter
+taxiförare/taxichaufför
+körsnär/pälsmodellör
+tillskärare, konfektion
+pappersvaruarbetare
+formgivare
+familjerättsjurist
+arbetsrättsjurist
+bildingenjör
+scenograf
+sufflör
+inspicient
+bibliotekschef
+avdelningschef, statlig
+agronom
+hortonom
+jägmästare
+lantmästare
+trädgårdsingenjör/trädgårdstekniker
+landskapsingenjör
+fiskerikonsulent
+lantbrukare, växtodling
+gårdsmästare, växtodling/rättare, växtodling
+trädgårdsmästare, odling
+trädgårdsarbetare/plantskolearbetare, trädgård
+trädgårdsanläggare/trädgårdsanläggningsarbetare
+lantbrukare, djuruppfödning
+djurskötare, djuruppfödning
+avbytare, jordbruk
+djurskötare, häst
+djurskötare, fjäderfä
+husdjurstekniker
+djurskötare, djurpark
+hundskötare/hundvårdare
+lantbrukare, blandad drift
+gårdsmästare, blandad drift/rättare, blandad drift
+virkesmätare
+idrottsplatsvaktmästare/idrottsplatsarbetare
+privatbokbindare
+screentryckare
+etsare, tryckmedium
+gravör, tryckmedier
+maskinbokbindare/bokbinderiarbetare
+organisationsutvecklare
+konsumentvägledare
+biolog
+jaktvårdare/viltvårdare
+massör/massageterapeut
+installationselektriker
+filmredigerare
+marknadsassistent
+vårdare/arbetshandledare/boendestödjare
+controller
+stuckatör
+modell
+fraktexpeditör, flyg
+möbelsnickare
+modellsnickare
+företagsledare
+bostadsförmedlare
+soliditetsupplysare
+personalchef/hr-chef
+ordermottagare
+tullkontorist
+lantbruksinspektor
+pälsdjursskötare
+försöksdjurskötare/försöksdjurstekniker
+jägare
+träförgyllare
+flygklarerare
+transportledare
+lagerchef
+trafikchef
+produktionschef, bygg
+apotekstekniker
+tandvårdsassistent
+obduktionstekniker/obduktionsassistent
+kommunchef
+chefredaktör
+universitetsrektor
+kontorschef, bank
+fastighetschef
+ekonomichef
+försäljningschef
+byggmästare
+inköpschef
+fraktchef
+mediachef
+säkerhetschef
+driftchef, trädgård
+kontorschef, offentlig förvaltning
+dansare, show
+virkessorterare
+maskinoperatör, hygienteknik
+avdelningschef, kommun
+kontorschef, utbildningsföretag
+teleområdeschef
+sjukhusdirektör
+handpaketerare
+lastare
+plattsättare
+missionär
+maskinoperatör, läkemedel
+provsmakare
+elmontör
+kemitekniker
+elingenjör
+ugnsoperatör
+lantbruksförman, blandad drift
+ladugårdsskötare, blandad drift
+ladugårdsförman, blandad drift
+djurskötare, gris
+ladugårdsföreståndare/ladugårdsförman, djuruppfödning
+djurskötare, får
+arrendator, djuruppfödning
+farmaceut/receptarie
+researcher, rekrytering
+civilingenjör, produktion, gruv, metallurgi
+civilingenjör, kvalitet, metallurgi
+civilingenjör, process, kemiteknik
+civilingenjör, kvalitet, kemiteknik
+civilingenjör, vvs
+civilingenjör, produktion, maskin
+civilingenjör, konstruktion, maskin
+civilingenjör, kvalitet, elektronik
+civilingenjör, produktion, elektronik
+civilingenjör, konstruktion, elektronik
+civilingenjör, produktion, elkraft
+civilingenjör, kvalitet, elkraft
+civilingenjör, kontroll, elkraft
+civilingenjör, konstruktion, elkraft
+civilingenjör, drift och underhåll, elkraft
+civilingenjör, anläggning, elkraft
+barnombudsman
+miljöchef
+teaterchef
+civilingenjör, väg
+civilingenjör, väg- och vattenbyggnad
+civilingenjör, trafik
+civilingenjör, hamn
+civilingenjör, byggnadskonstruktion
+civilingenjör, anläggning
+civilingenjör, kemiteknik
+civilingenjör, lantmäteri
+civilingenjör, maskin
+civilingenjör, el-tele
+civilingenjör, elkraft
+civilingenjör, bygg
+civilingenjör, systemutveckling
+miljökemist
+teamledare
+riksbibliotekarie
+hovrättsråd
+jurist, allmän domstol
+enhetschef inom social omsorg/föreståndare inom social omsorg
+enhetschef inom socialtjänst
+satellitoperatör
+rymdingenjör
+intendenturpersonal, försvaret
+intendenturpersonal, sjöfart
+financial controller
+business controller
+accounting controller
+spa-terapeut
+kontakttolk/dialogtolk
+idéhistoriker
+stämningsman
+Överdirektör
+väg- och vattenbyggnadsingenjör
+vvs-ingenjör
+verksjurist
+varumärkesjurist
+tulldirektör
+trafikinspektör
+tmp/ctmp-operatör
+teleingenjör
+sångpedagog
+styr- och reglertekniker
+stationär väktare/receptionsväktare
+stadsdirektör
+stadsarkivarie
+sodahusoperatör
+träarbetare/snickare
+riksgäldsdirektör
+riksdagsledamot
+flygplatsman/ramppersonal
+produktionsingenjör, textil, trä, glas, förpackningar
+produktionsingenjör, maskin
+produktionsingenjör, elkraft
+produktionsingenjör, bygg
+processingenjör, kemiteknik
+organisationschef, kommun
+nätverkskonstruktör
+miljövårdsdirektör
+maskinsnickare/operatör, trävaruindustri
+länsråd
+länsbibliotekarie
+länsantikvarie/1:e antikvarie
+landstingsrevisor
+landsarkivarie
+landsantikvarie
+konstruktör, textil, trä, glas, förpackningar
+konstruktör, elkraft
+kommunrevisor
+kanslichef, statlig
+kanslichef, kommun
+it-tekniker/datatekniker
+it-arkitekt/lösningsarkitekt
+hyvelmästare
+förbundsdirektör
+fögderidirektör
+fordonsingenjör
+fastbränsleeldare
+drifttekniker, värmeverk
+departementsråd
+departementschef
+degelmakare
+civilförsvarschef
+byggnadskonstruktör
+butikschef
+brandchef
+barnmorska, förlossning
+bangårdsoperatör
+arbetsmiljöinspektör
+arbetsförmedlare
+antagningschef, utbildning
+aktuarie
+specialpedagog
+kassaledare, butik
+placeringsassistent
+idrottsdomare
+konduktör
+peruk- och tupéfrisör
+affischör/affischuppsättare
+tågvarnare
+roddare/roadie
+språkteknolog
+datorlingvist/datalingvist
+folkhälsoplanerare
+folkhälsoutvecklare
+hälsoplanerare
+kasinopersonal
+bohags- och flyttbilsförare
+bygg- och anläggningsförare
+kranbilsförare
+specialtransportförare
+liftdumper- och lastväxlarförare
+renhållningsförare
+sug- och spolbilsförare
+skogstransportförare
+djurtransportförare
+floormanager
+inspector dealer
+hälsoinformatör
+hälsopedagog
+fjärrbilsförare
+utlandsförare
+forensiker, kemist
+forensiker, fysiker
+forensiker, biomedicinsk analytiker
+parkarbetare/utemiljöarbetare/miljövärd
+trafiksamordnare
+deponiarbetare
+elektroniksanerare
+industrisanerare
+kärnkraftsanerare
+account manager
+key account manager
+cytodiagnostiker
+informationsarkitekt
+webbredaktör
+församlingsdiakon
+sjukhusdiakon
+lastbilssäljare
+maskinsäljare, entreprenad
+tunnplåtslagare
+makroanalytiker
+ränteanalytiker
+maskinoperatör, juice, frukt, grönsaker och vegetabilisk olja
+barista/kaffebartender
+barmästare
+hundförare
+sjukhusvaktmästare
+arborist/trädvårdare
+säkerhetsrådgivare
+räddningsledare, statlig räddningstjänst
+grönsaksodling, förman
+växthusodling, förman
+prydnadsväxtodlare
+driftledare, skogsbruk
+spärrexpeditör/spärrvakt
+stationsvärd
+tillgänglighetskonsult
+discjockey
+testförare
+folkhälsosekreterare
+trafiklots
+församlingspräst med specialuppgifter
+oorganisk kemist
+materialkemist
+strukturkemist
+civilingenjör, forskning/utveckling, kemi
+förvaltare, skogsbruk
+områdeschef, skogsbruk
+bärplockare
+driftchef, fastighet
+fastighetsingenjör
+kostekonom
+kommundirektör
+livsmedelsinspektör
+personalsekreterare
+motorcykelmekaniker
+marinmekaniker
+etolog
+testledare/qa lead
+kronodirektör
+digitaltryckare
+biståndsbedömare/biståndshandläggare
+lss-handläggare
+heatsettryckare
+rehabhandläggare
+buddhistpräst
+informationsspecialist
+coldsettryckare
+neuropsykolog
+samtalsterapeut
+redovisningskonsult
+prepressoperatör
+bovärd/fastighetsvärd/husvärd
+personligt ombud
+maskinmekaniker/skogsmaskinmekaniker
+kolportör
+hr-konsult/pa-konsult
+hr-specialist/hr-adviser
+klinikapotekare
+taltjänsttolk
+försäkringsförmedlare/försäkringsmäklare
+begravningsrådgivare
+borgerlig officiant
+curator
+turnéproducent för utställningar
+pressoperatör, tryckmedier
+signalman
+videografiker
+utryckningsväktare
+civilingenjör, kemi
+aru, ansvarig reklamutgivare
+civilingenjör, energi
+bioinformatiker
+valideringsingenjör
+biomedicinare
+lärling, beläggningsarbete
+lärling, väg- och anläggningsarbetare
+lärling, anläggningsdykare
+lärling, bergarbetare
+lärling, betongarbetare
+lärling, betonghåltagare
+lärling, målare
+lärling, byggnadsplåtslagare
+lärling, ventilationsplåtslagare
+lärling, träarbetare
+lärling, ställningsbyggare
+lärling, glastekniker
+lärling, golvläggare
+lärling, hissmontör
+lärling, installationselektriker
+lärling, vvs-montör
+lärling, murare
+lärling, plattsättare
+lärling, tak- och tätskiktsmontör
+lärling, undertaksmontör
+länsjaktvårdare
+avverkningsledare, skogsbruk
+mätningschef, virkesmätning
+distriktschef, skogsbruk
+skogsinspektor
+skogsplanläggare
+skogsekonom
+skogslärare/skogsbrukslärare/skogsbruksinstruktör
+skogsvärderare
+skogsförvaltare
+skogsvårdschef
+virkeschef
+virkesområdeschef
+skogsarbetare, plantering
+skogsarbetare, röjning
+skogsarbetare, motormanuell avverkning
+markberedningsförare, skogsbruk
+flismaskinförare, skogsbruk
+grävmaskinförare, skogsbruk
+klinisk farmakolog
+intervjuare, opinionsundersökning
+kinesiolog
+säkerhetsmontör
+fastighetsmäklarassistent
+produktionstekniker, maskin/verkstad
+robotoperatör
+tågklarerare
+fjärrtågklarerare
+grillbiträde/gatuköksbiträde
+mopedbud
+vinodlare
+helpdesktekniker/supporttekniker
+bildpedagog
+konstkonsult
+utställningskoordinator
+konservator
+ljuddatatekniker
+efterbearbetningsredaktör
+webbtekniker
+producent: kultur, media, film
+utställningsproducent
+talboksproducent
+sändningstekniker
+kameraassistent
+produktionsekonom
+undertextare
+nyhetstextare
+redaktionsassistent
+svensktextare
+recensent
+elektrikerassistent, film/tv
+bing, film/tv
+dockteaterpedagog
+musiker, folkmusik
+trapetskonstnär
+estradör
+rekvisitörsassistent
+turnéledare
+mediehanterare
+utbildningskoordinator
+hr-assistent
+informationsassistent
+embryolog
+civilingenjör, bioteknik
+arbetsledare, måleri
+arbetsledare, mureri
+arbetsledare, golv
+måleri, servicearbetare
+drift- och vägunderhållsarbetare
+prorektor
+utesäljare
+Äggplockare
+flyktingassistent
+lärare i praktiska och estetiska ämnen
+lärare i gymnasieskolan
+lärare i gymnasieskolan - yrkesämnen
+läromedelsassistent
+automationselektriker
+relationsmarknadsförare
+data warehouse specialist
+skidpatrullör/pistör
+universitets- och högskolelektor
+universitets- och högskoleadjunkt
+arbetsledare, ventilation
+arbetsledare, vvs
+tv-chef
+operachef
+fad (first assistant director)
+projektledare: kultur, media, film
+teateragent
+turnéläggare
+eventproducent
+inspelningsassistent
+inspelningskoordinator
+konstpedagog
+försäkringsförmedlarassistent
+torgförsäljare/marknadsförsäljare
+bensinstationsföreståndare/stationschef
+skogsbrukare
+modersmålslärare/modersmålspedagog
+lärare i praktiskt/estetiskt och annat ämne
+lärare i musik- och kulturskolan
+väg- och anläggningsarbetare, utan yrkesbevis
+beläggningsarbetare, utan yrkesbevis
+banarbetare, utan behörighetsbevis
+bergarbetare, utan yrkesbevis
+betongarbetare, utan yrkesbevis
+golvläggare, utan yrkesbevis
+betonghåltagare, utan yrkesbevis
+murare, utan yrkesbevis
+plattsättare, utan yrkesbevis
+stenmontör, utan yrkesbevis
+ställningsbyggare, utan yrkesbevis
+tak- och tätskiktsmontör, utan yrkesbevis
+träarbetare/snickare, utan yrkesbevis
+undertaksmontör, utan yrkesbevis
+fasadputsare
+golvslipare/trä
+husmontör
+stenmontör
+lärling, stenmontör
+ventilationsmontör
+betongelementmontör
+fogarbetare, hus och anläggning
+golvbeläggningsarbetare, industri
+skorstenstätare
+sprinklermontör
+lärling, mobilkranförare
+lärling, tornkranförare
+värmepumpsmontör
+vvs-tekniker
+musikproducent
+sångare, folkmusik
+musiker, klassisk musik
+konsertarrangör
+creative director/cd
+fotografagent
+butikskommunikatör/visual merchandiser
+bandschaktarförare
+bandlastarförare
+grävlastarförare, anläggning
+motorschaktvagnförare
+lärling, bandlastarförare
+lärling, bandschaktarförare
+lärling, beläggningsmaskinförare
+lärling, grävlastare
+lärling, grävmaskinförare
+lärling, lastmaskinförare
+lärling, motorschaktvagnförare
+lärling, pålmaskinförare
+lärling, väghyvelförare
+fasadrengörare
+rostskyddsmålare
+produktionskoordinator
+platskoordinator
+platschef, film/tv
+nyhetsgrafiker
+at-läkare
+st-läkare
+specialistläkare
+läkare
+driftchef, skogsbruk
+plantskolearbetare, skog
+sjuksköterska, äldreomsorg och -vård/geriatrik
+dekorationsmålare, bygg
+teleskoptruckförare, anläggning
+lärling, teleskoptruckförare
+teleskoptruckförare
+berglastare
+ventilationsingenjör
+ventilationstekniker
+platschef, anläggning
+produktionschef, anläggning
+bergförstärkare
+skyddsrumsinspektör
+vägingenjör
+entreprenadingenjör
+drift- och underhållsingenjör, anläggning
+civilingenjör, forskning inom bygg/anläggning
+isoleringsplåtslagare
+lärling, vvs-isolerare
+lärling, isoleringsplåtslagare
+lärling, industrielektriker
+civilingenjör, järnväg
+professor
+hantverkspedagog
+baxare
+barnmorska, ungdomsmottagning
+barnsjuksköterska, akutmottagning
+mas, medicinskt ansvarig sjuksköterska
+företagssjuksköterska/företagssköterska
+driftingenjör, el-tele
+verktygskonstruktör
+trafikplanerare, offentlig förvaltning
+personlig tränare/pt
+automationsingenjör, elkraft
+automationstekniker, el
+automationstekniker, elektronik
+automationstekniker, maskin
+automationsingenjör, maskin
+ptp-psykolog
+yrkesjägare
+forskare, it
+lärare i förskoleklass
+sjuksköterska, grundutbildad
+biträdande rektor
+skötare
+ortodontiassistent
+st-tandläkare
+avdelningschef, landsting
+förvaltningschef, landsting
+landstingsdirektör
+enhetschef, hälso- och sjukvård
+värmeverkschef
+platschef, bilprovning
+distriktschef, bilprovning
+mästare, glasbruk
+glaspolerare
+make-up artist
+modersmålslärare i gymnasieskolan
+modersmålslärare i grundskolan
+planarkitekt
+anonym konsument
+vitvarumontör
+civilingenjör, teknisk fysik
+affärsarkitekt
+processtekniker, vattenrening
+justitieråd
+utvecklingschef
+marinmeteorolog
+maskinkonstruktör
+elektronikkonstruktör
+medlemsvärvare, intresseorganisation/telefonkommunikatör
+renserioperatör
+processoperatör, smältverk
+maskinist, energi
+dataingenjör
+barchef
+handformare, gjuteri
+kärnmakare
+trailerreparatör
+hygiensjuksköterska
+uroterapeut
+stomiterapeut
+Ögonsjuksköterska/oftalmologassistent
+onkologisjuksköterska
+sjuksköterska, geriatrisk vård
+steriltekniker/undersköterska, sterilcentral
+lantbruksekonom
+statssekreterare
+tågledare
+flygledarassistent
+fdo (flight data operator)
+biltestkoordinator
+arkoffsettryckare
+plåtbearbetare
+badvaktmästare
+arbetsledare, tryckeri
+maskinoperatör, hårdband
+maskinoperatör, mjukband
+falsare, bokbinderi
+grafisk operatör, digital produktion
+stålbyggare
+civilingenjör, medicinsk teknik
+stenbrottsarbetare
+teatermålare
+sfi-lärare
+lädervaruarbetare
+kantpressare
+ortoptist
+läkeeurytmist
+perfusionist
+virkesköpare/virkesinköpare
+servicetekniker, data
+beredningssekreterare/domstolssekreterare/domstolshandläggare
+speciallärare
+arbetsledare, rivning
+avdelningschef, smältverk
+forskningsingenjör, kemi
+laboratorieingenjör, metallurgi
+produktionsingenjör, kemi
+processutvecklare, kemi
+mättekniker, kemi
+underhållsplanerare
+utvecklingsingenjör, metallurgi
+utvecklingsingenjör, kemi
+underhållschef
+barnsköterska
+förskolechef
+kategorichef/kategoriansvarig
+matros, inre fart
+föredragande/beredningsjurist
+trafikkoordinator
+passagerarkoordinator
+civilingenjör, farkostteknik
+nämndsekreterare
+jobbcoach/utbildningscoach
+podiater/podiatriker
+programmerare, pc-spel
+programmerare, konsolspel
+programmerare, mobilspel
+programmerare, webbspel
+speltestare
+speldesigner
+leveldesigner
+3d-grafiker
+grafiker, game concept artist
+2d-grafiker
+grafiker, texturerare
+arrestantvakt/arrestvakt
+gruppchef, teknik
+syntolk
+stängselmontör
+bagerichef
+cityledare
+centrumledare
+biträdande butikschef/säljande butikschef
+energideklarerare/energiexpert
+skogsmästare
+arrendator, växtodling
+djurskötare, mjölk
+meteorologisk observatör
+juristassistent/paralegal
+sqe supplier quality engineer
+forskarassistent
+biträdande universitetslektor
+budget- och skuldrådgivare
+telefonförsäljare
+gjutberedare
+smältare/smältverksoperatör
+akupressör
+shiatsuterapeut
+taktilterapeut
+läkemedelsansvarig, apotekare
+läkemedelsansvarig, receptarie
+processansvarig, itil
+huvudtillsyningsman, järnväg
+byggledare
+projekteringsingenjör, bygg och anläggning
+projekteringsingenjör, el-tele och elektronik
+projekteringsingenjör, maskin
+projekteringsingenjör, gruv och metallurgi
+järnvägsingenjör
+centrumutvecklare/handelsutvecklare
+massaberedare, papper
+civilingenjör, tillverkningsindustri
+produktionsledare, tillverkningsindustri
+produktionsplanerare, tillverkningsindustri
+utvecklingsingenjör, tillverkningsindustri
+konstruktör, tillverkningsindustri
+automationstekniker, tillverkningsindustri
+kalibreringsingenjör, tillverkningsindustri
+produkttekniker, konfektion
+mönsterkonstruktionsassistent
+produktutvecklare, konfektion
+optikerassistent
+socionom
+upphandlare
+eu-handläggare
+spannramsförare
+trikåstickare
+fibertekniker/optotekniker
+apotekschef
+talpedagog
+synpedagog
+habiliteringspedagog
+utredningsassistent
+brandskyddsmålare
+miljö- och klimatstrateg
+kontraktsadjunkt
+organist
+chef inom kyrkogårdsförvaltningen
+kanslichef/verksamhetschef, församling
+kyrkokamrer
+processoperatör, metallindustri
+processtekniker, tillverkningsindustri
+kundserviceingenjör, tillverkningsindustri
+soldat/sjöman
+specialistofficer
+processtekniker, gjuteri
+enhetschef, offentlig förvaltning
+oddssättare
+samhällsvägledare
+gis-utvecklare
+gis-samordnare
+eventsäljare/eventförsäljare
+samplingspersonal
+verksamhetsarkitekt
+verksamhetsanalytiker
+raslastare
+flödesoperatör
+operatör, gruvventilation
+gruvbyggare
+servicetekniker, tåg
+takmålare, plåt
+forskningschef, museum
+vindkraftstekniker
+småmaskinsmekaniker
+produktionschef, logistik och transporter
+produktionsledare, distribution
+kundmäklare
+chef, corporate finance
+aktiechef
+chef för valuta och fixed income
+trader
+backofficepersonal
+helikopter, färdmekaniker
+flygplansplåtslagare
+chefsbarnmorska
+skadedjurstekniker
+biträdande förskolechef
+eltekniker, järnväg/kontaktledningsmontör
+riskingenjör, risk management
+museitekniker
+frontofficepersonal
+veterinärinspektör
+programmerare, onlinespel
+radioloksoperatör
+arbetsledare, lager
+frisöraspirant
+interaktionsdesigner
+applikationsutvecklare
+verksamhetskonsult, it
+affärskonsult, it
+djurvårdare
+reservdelschef
+sjöfartskontrollant/hamnskyddskontrollant
+trafiknykterhetskontrollant
+uppräkningspersonal, bevakningsföretag
+undersköterska, hemtjänst, äldreboende och habilitering
+undersköterska, vård- och specialavdelning och mottagning
+arbetsledare/gruppledare, kontorspersonal
+doktorand
+it-forensiker
+excerpist
+charkuteriarbetare, slakteri
+slaktmästare
+kran- och hisstekniker
+länsjurist
+instruktör/tränare inom specialidrott
+ljudmixeroperatör
+ljusbordsoperatör
+operatör, scenmaskineri
+enterprise architect
+systemarkitekt
+infrastrukturarkitekt
+radiolokförare
+yogamassör
+rosenterapeut
+aromaterapeut
+ayurvedamassör/ayurvedaterapeut
+näringsterapeut
+hårdvarukonstruktör
+borrtekniker
+kyl- och värmepumpsmontör
+kyl- och värmepumpstekniker
+cnc-operatör, trä
+trähusarbetare/spikare
+tapetserare, industriell tillverkning
+tapetserare, hantverk
+tillskärare, möbeltillverkning
+sömmerska, möbeltillverkning
+kravanalytiker
+lösullsinstallatör
+bredbandsinstallatör
+dit (digital imaging technician)/loggare
+location scout/platsletare, film
+kommunikationsstrateg
+kundtjänstchef
+bygglovshandläggare
+fukttekniker
+designassistent
+materialprovare
+backend-utvecklare
+frontend-utvecklare
+vts- och lotsoperatör
+kabininstruktör
+trafikledare, spårburen trafik
+laseroperatör/laserskärare
+anhörigkonsulent
+polisaspirant
+dykinstruktör
+skidinstruktör/skidlärare
+ridinstruktör/ridlärare
+golfinstruktör/golftränare
+laborant, biologi
+forensiker, biologi
+hjullastarförare, godshantering
+vaktgående maskinpersonal, sjöfart
+befaren maskinpersonal, sjöfart
+projektledare, bygg och anläggning
+rörinfodrare
+videojournalist/videoreporter
+lärare i grundskolan, årskurs 1-3
+lärare i grundskolan, årskurs 4-6
+lärare i grundskolan, årskurs 7-9
+skidliftvärd
+snöläggare
+Äldrepedagog
+ljuddesigner
+statist
+sad (second assistant director)
+affärsutvecklare
+publikvärd
+kock, à la carte
+kock, storhushåll
+forskare, samhällsvetenskap
+utbildningshandläggare
+servicehandläggare
+sektionschef, offentlig förvaltning
+stödassistent
+stödpedagog
+mättekniker, geologi
+fälttekniker, geologi
+depåtekniker, prospektering
+borrkärnshanterare
+avdelningschef, gruva
+sektionschef, gruva
+automationsingenjör, gruvteknik och metallurgi
+slipare, finbearbetning
+prototyptillverkare, metall
+personalutvecklare
+vindkraftsprojektör
+regulatorisk handläggare
+colorist
+vfx artist (visual effects artist)
+gruppledare inom socialtjänst
+biljettkontrollör
+configuration manager/cm
+anbudsansvarig/bid manager
+va-ingenjör
+fransstylist/frans- och brynstylist
+pkc-operatör
+dataregistrerare/registrerare
+verksamhetsutvecklare
+barberare
+fytoterapeut/Örtterapeut
+ekologisk hudvårdsterapeut
+yogainstruktör/yogalärare
+hälsocoach
+gardinmakare
+arbetsledare/gruppledare, kundservice
+sius-konsulent
+supply chain manager/scm manager
+förlagschef, bokförlag
+förlagschef, tidning
+postdoktor/postdoc
+forskare, bakteriologi
+forskare, agronomi
+forskare, beräkningsbiologi
+forskare, bioteknik
+forskare, cell- och molekylärbiologi
+forskare, etnologi
+forskare, filmvetenskap
+forskare, kriminalvård
+forskare, kulturgeografi
+forskare, läkemedel
+forskare, medicin
+forskare, mikrobiologi
+forskare, mikroelektronik
+forskare, miljö
+forskare, odontologi
+forskare, omvårdnad
+forskare, pedagogik
+forskare, rättsvetenskap
+forskare, sociologi
+forskare, språk
+forskare, statskunskap
+forskare, trafiksäkerhet
+forskare, trädgårdsvetenskap
+forskare, växt- och djurbiologi
+forskare, zoologi
+forskare, genetik
+forskare, immunologi
+forskare, jordbruk
+viltforskare
+forskare, virologi
+geodatasamordnare
+funktionschef, offentlig förvaltning
+förrättningsassistent
+stadsutvecklare/samhällsstrateg
+naturvårdshandläggare
+bussvärd
+språkstödjare
+gruppledare/arbetsledare, säkerhetsarbete
+strålskyddstekniker
+lunchkock
+ux-designer/ui-designer
+servicedesigner/tjänstedesigner
+lärare i grundskolan, årskurs 1-6
+hårdvarutestare
+mjukvarutestare
+testutvecklare
+mobilutvecklare/apputvecklare
+databasanalytiker
+big data analyst/stordata-analytiker/big data analytiker
+kontaktsjuksköterska
+vårdkoordinator/vårdplatskoordinator
+hållbarhetschef
+musikbibliotekarie
+civil brottsutredare
+arbetsledare, terminal
+forskare, ekonomi
+hållbarhetsutvecklare
+modersmålslärare, förskola
+arkivutredare
+ateljerista
+braskaminmontör
+hseq manager
+leveranskoordinator, it
+köksarkitekt
+piercare
+casting director/castare/rollsättare
+filmfotograf
+klippassistent
+koordinator, kultur, media, film
+kma-samordnare
+livsmedelsarbetare, charkuteri
+rehabiliteringskoordinator/rehabkoordinator
+cdo, chief data officer
+cdo, chief digital officer
+webbanalytiker
+teknisk skribent
+teknisk redaktör
+onlinemarknadsförare
+dataanalytiker
+e-commerce manager

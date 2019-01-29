@@ -1,4 +1,5 @@
 (ns subtoken-indexer.core
+  (:require [clojure.string :as str])
   (:gen-class)
   )
 
@@ -34,4 +35,22 @@
        )
      )
    )
+  )
+
+
+(def all-jobs-ont (slurp "resources/ontology_all_occupations.txt"))
+(def all-jobs-tax (slurp "resources/tax_occupations_lowercase.txt"))
+
+(def all-jobs (set (concat (str/split-lines all-jobs-ont) (str/split-lines all-jobs-tax))))
+
+(defn create-index [words]
+  (group-by first (mapcat word-segmenter words))
+  )
+
+(defn order-by-token-length-and-members [coll]
+  (reverse (sort-by (juxt #(count (second %))  #(count (first %) )) coll))
+  )
+
+(defn filter-by-token-length [coll]
+  (filter #(< 11 (count (first %))) coll)
   )
