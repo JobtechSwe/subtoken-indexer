@@ -6,7 +6,7 @@
   "I don't do a whole lot."
   [x]
   (println x "Hello, World!"))
-
+()
 
 
 (def words ["akrobat" "akrobater" "robottekniker" "maskintekniker"])
@@ -28,7 +28,7 @@
      (let [
            new-gap (update-gap gap chars)
            new-chars (if (= gap (count chars)) (rest chars) chars)
-           new-acc (conj acc [(take gap chars) word])
+           new-acc (conj acc [(apply str(take gap chars)) word])
            ]
        (recur word new-chars new-gap new-acc)
        )
