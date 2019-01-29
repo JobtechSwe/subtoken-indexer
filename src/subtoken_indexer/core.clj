@@ -1,5 +1,7 @@
 (ns subtoken-indexer.core
-  (:require [clojure.string :as str])
+  (:require [clojure.string :as str]
+            [clojure.math.combinatorics :as combo]
+            )
   (:gen-class)
   )
 
@@ -53,4 +55,15 @@
 
 (defn filter-by-token-length [coll]
   (filter #(< 11 (count (first %))) coll)
+  )
+
+;; TODO gruppera ord som delar flera kluster
+
+(defn adjust-index-to-set [index-part]
+  [(first index-part) (set (map second (second index-part)))]
+  )
+
+
+(defn get-all-pairs [index]
+  (mapcat #(map set (combo/combinations (second %) 2)) index )
   )
